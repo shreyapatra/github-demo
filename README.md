@@ -1,4 +1,4 @@
 # github-demo
 This is my new Git Repository.
 <br>
-Author - Shreya Patra
+Author - Shreya P
